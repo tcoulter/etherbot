@@ -1,0 +1,23 @@
+{
+  "addresses": [
+    {
+      "address": "0x...",
+      "email": "your@email.com"
+    }
+  ],
+  "mailer": {
+    "transporter": {
+      "service": "see http://www.nodemailer.com/",
+      "auth": {
+        "user": "gmail.user@gmail.com",
+        "pass": "if gmail, use app passwords https://support.google.com/accounts/answer/185833?hl=en"
+      }
+    },
+    "from": "emailof@sender.com"
+  },
+  "rpc": {
+    "host": "localhost",
+    "port": 8545
+  },
+  "tip_address": "0xf6e1652a0397e078f434d6dda181b218cfd42e09"
+}

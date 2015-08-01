@@ -1,0 +1,27 @@
+{
+  "name": "etherbot",
+  "version": "0.0.1",
+  "description": "Etherbot",
+  "dependencies": {
+    "nodemailer": "*",
+    "web3": "*",
+    "babel": "*",
+    "async": "*",
+    "lodash": "*",
+    "bignumber.js": "*"
+  },
+  "scripts": {
+    "start": "./node_modules/.bin/babel-node ./etherbot.es6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tcoulter/etherbot.git"
+  },
+  "authors": [
+    {
+      "name": "Tim Coulter",
+      "email": "tim@timothyjcoulter.com",
+      "url": "https://github.com/tcoulter"
+    }
+  ]
+}
