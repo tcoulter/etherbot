@@ -36,7 +36,7 @@ Here's a quick list of the items you need to specify within `config.json`:
 
 ### Running
 
-After properly configuring Etherbot, you can either run `npm start`, or calling hte file directly:
+After properly configuring Etherbot, you can either run `npm start`, or calling the file directly:
 
 ```
 $ ./etherbot.es6
